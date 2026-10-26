@@ -1,0 +1,6 @@
+{
+  "name": "TEKE TEKE: THE GAME",
+  "description": "An authentic PS1-era retro first-person survival horror game set in a 1990s industrial railway yard during an electrical blackout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
